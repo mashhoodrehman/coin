@@ -1,0 +1,91 @@
+[10-Feb-2019 19:00:20 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:02:56 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:04:06 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:23:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(654): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(103): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:661
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 661
+[10-Feb-2019 19:41:42 UTC] PHP Warning:  require(/home/supawi/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/supawi/public_html/artisan on line 18
+[10-Feb-2019 19:41:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/supawi/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/supawi/public_html/artisan on line 18
+[10-Feb-2019 19:41:50 UTC] PHP Warning:  require(/home/supawi/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/supawi/public_html/artisan on line 18
+[10-Feb-2019 19:41:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/supawi/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/supawi/public_html/artisan on line 18

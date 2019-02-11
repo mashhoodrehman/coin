@@ -1,0 +1,67 @@
+
+
+@media (max-width: 991.98px) {
+
+    .b-text ul{
+        position: relative;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: url('../images/mobile-nav-icon.png');
+        background-size: 100% 100%;
+    }
+    
+
+}
+
+@media (max-width: 791.98px) {
+    header .top-bar .regigter .r-btn {
+        width: 200px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .main-content .title h5{
+        font-size: 17px;
+    }
+    .main-content .table-area th{
+        font-size: 13px;
+    }
+    .main-content .table-area tr h5 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .main-content .table-area tr h5 span{
+        font-size: 11px;
+    }
+    .main-content .table-area tr p {
+        width: 40px;
+        height: 25px;
+        line-height: 22px;
+        font-size: 12px;
+    }
+    .boxx button{
+        position: relative;
+    }
+    .title.title2 h6 {
+        position: relative;
+        right: inherit;
+        top: 9px;
+    }
+    footer ul li {
+        width: 38px;
+        margin: 10px 7px;
+    }
+    .table3 h5 {
+        max-width: 4rem;
+        font-size: 11px !important;
+    }
+    .table-area.table3 .tic{
+        font-size: 13px !important;
+        line-height: 10px;
+    }
+    header .top-bar .regigter input{
+        margin-bottom: 10px;
+    }
+}
+
+
+
